@@ -17,7 +17,7 @@
 
 Slack = require '..'
 
-token = 'xoxb-YOUR-TOKEN-HERE' # Add a bot at https://my.slack.com/services/new/bot and copy the token here.
+token = 'xoxb-13100152530-RzdTbuYVEcdyTql1AzAoEzri' # Add a bot at https://my.slack.com/services/new/bot and copy the token here.
 autoReconnect = true
 autoMark = true
 
